@@ -101,7 +101,7 @@ local function LoadNet() -- You can remove the script belown and the options.Net
 		settings().Physics.AllowSleep = false
 		settings().Physics.DisableCSGv2 = true
 		settings().Physics.PhysicsEnvironmentalThrottle = Enum.EnviromentalPhysicsThrottle.Disabled
-		loadstring(game:HttpGet("https://raw.githubusercontent.com/OpenGamerTips/Roblox-Scripts/main/NetworkScripts/ownership.lua"))()
+		loadstring(game:HttpGet("https://raw.githubusercontent.com/DarksGitHub/VRScript/main/Ownership.lua"))()
 	end
 end
 --
