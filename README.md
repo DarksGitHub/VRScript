@@ -1,8 +1,6 @@
 # VRScript
 
-This Script Requires
-
-A Virtual Reality Headset
+This Script Requires A Virtual Reality Headset Because It's Not A Fake VR Script
 
 If its standalone then you will need to use a connection with a cable or if its a quest you can use Air Link
 
